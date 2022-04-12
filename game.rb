@@ -33,10 +33,8 @@ class Game
         switch_player
       end
      
-      
-
-
     end
+    
   end
   
   def who_won
